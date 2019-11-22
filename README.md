@@ -2,7 +2,7 @@
 
 *Don't avoid the problem, push through the problem*
 
-
+![img](https://avatars0.githubusercontent.com/u/49040881?s=460&v=4)  
 ### Graphic designer, teacher and becoming a developer  
 
 
@@ -21,8 +21,8 @@ About| me
 * drawing 
 * cooking 
 * watching movies 
-    *The Joker
-    *Star Wars
+   * The Joker
+   * Star Wars
 
 #### You can always count on me when
 When i understand something, i can be quite good at explaining and guiding you through it.
